@@ -1,0 +1,17 @@
+|* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  font-family: 'Poppins', sans-serif;
+  background:linear-gradient(180deg, #2c0040 0%, rgba(33, 1, 65, 0.8) 100%) ;
+}
+
+.lixeira {
+  width: 20px;  
+  height: 20px; 
+}
